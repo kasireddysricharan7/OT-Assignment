@@ -1,0 +1,12 @@
+Initial Basic Feasible Solution using VAM:
+[0, 15, 0, 0]
+[0, 5, 15, 5]
+[5, 0, 0, 5]
+Initial transportation cost: 365
+Do you want to apply MODI? (1 for Yes, 0 for No): 1
+
+Optimal allocation using MODI:
+[0, 10, 0, 5]
+[0, 10, 15, 0]
+[5, 0, 0, 5]
+Minimum transportation cost: 360
